@@ -1,13 +1,13 @@
 ﻿{
-  "Author": "UnknownX",
-  "Name": "Cammy",
+  "Author": "Fork by Caraxi, Originally by UnknownX",
+  "Name": "Cammy Forked",
   "Punchline": "A simple editor for the game's camera settings",
   "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
   "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
   "ImageUrls": [
     "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
   ],
-  "RepoUrl": "https://github.com/UnknownX7/Cammy",
+  "RepoUrl": "https://github.com/Caraxi/Cammy/",
   "CategoryTags": [
     "utility"
   ],
